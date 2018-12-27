@@ -1,4 +1,4 @@
-******* Project : Fingerprint Recognition System *******
+Project : Fingerprint Recognition System 
 
 - Description: Discover The Least Developed Technique For FingerPrint Recognition,Based On The Matching with The Euclidean Distance & Filter Gabor.
 
