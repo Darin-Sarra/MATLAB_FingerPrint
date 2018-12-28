@@ -1,4 +1,4 @@
-Project : Fingerprint Recognition System 
+Project : Fingerprint Recognition System (Work Only With Matlab 32 Bit)
 
 - Description: Discover The Least Developed Technique For FingerPrint Recognition,Based On The Matching with The Euclidean Distance & Filter Gabor.
 
