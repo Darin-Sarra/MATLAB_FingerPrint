@@ -1,6 +1,6 @@
 Project : Fingerprint Recognition System :
 
-Attention : (This Demo Work only with Matlab 64 Bit, you need the full source code to work both in 32, 64 bits ).
+Attention : (This Demo Work only with Matlab 64 Bit ).
 
 - Description: Discover The Least Developed Technique For FingerPrint Recognition,Based On The Matching with The Euclidean Distance & Filter Gabor.
 
